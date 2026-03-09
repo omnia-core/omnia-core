@@ -1,32 +1,24 @@
-<h1 align="center">Hi, I'm Kevin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h3 align="center">Software Engineer from Korea</h3>
+# I'm Kevin 👋
 
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omnia-core&label=Profile%20views&color=0e75b6&style=flat" alt="omnia-core" />
-  <img src="https://img.shields.io/github/followers/omnia-core?label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/stars/omnia-core?label=Stars" alt="stars" />
-</p>
- -->
----
-
-### 📫 Connect with me:
-
-[💼: LinkedIn](https://www.linkedin.com/in/kevin-hwang-sh) <br>
-[📸: Instagram](https://instagram.com/kevinhwang__) - School of Computing KAIST 🏀 <br>
+**Software Engineer** · Seoul, Korea
 
 ---
 
-### 🔥 My Stats:
+👋 &nbsp;Engineer at AWS — Lambda, API Gateway, SNS/SQS  
+🔭 &nbsp;Building things at the intersection of backend systems and cloud infrastructure  
+🌱 &nbsp;Currently deep in Go, AWS, and distributed systems  
+🏀 &nbsp;KAIST CS grad — school taught me to think, basketball taught me the rest
+
+---
+
+**Find me elsewhere**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-hwang-sh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kevinhwang__)
+
+---
+
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omnia-core&show_icons=true&locale=en&theme=radical" alt="omnia-core" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omnia-core&theme=radical" alt="omnia-core" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omnia-core&show_icons=true&locale=en&layout=compact&theme=radical" alt="omnia-core" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omnia-core&theme=tokyonight" />
 </p>
