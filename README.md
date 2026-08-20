@@ -17,8 +17,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kevinhwang__)
 
 ---
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omnia-core&theme=tokyonight" />
-</p>
